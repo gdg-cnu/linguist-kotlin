@@ -1,0 +1,15 @@
+{
+  "extensions": {
+    "kt": "Kotlin",
+    "kts": "Kotlin",
+    "java": "Java",
+    "py": "Python",
+    "js": "JavaScript",
+    "cpp": "C++",
+    "cs": "C#",
+    "rb": "Ruby",
+    "go": "Go",
+    "rs": "Rust"
+  }
+}
+
